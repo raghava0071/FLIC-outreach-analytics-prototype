@@ -1,43 +1,47 @@
 # FLIC Outreach & Engagement Analytics Dashboard
 
-This project demonstrates a prototype analytics system for nonprofit outreach and organizing programs.
+A nonprofit analytics prototype designed to demonstrate how outreach, participation, volunteer activity, and data quality workflows can be organized into a simple reporting system.
 
-The goal is to illustrate how campaign engagement data, volunteer participation, and program outreach metrics can be organized, cleaned, and analyzed to support reporting and strategic decision-making.
+## Project Overview
 
-## Features
+This project simulates how a nonprofit organization could structure and analyze outreach data to support program reporting, stakeholder visibility, and strategic decision-making.
 
-• Data pipeline for outreach event tracking  
-• Data cleaning and quality validation  
-• Interactive Streamlit dashboard  
-• Participation and engagement analytics  
-• Volunteer channel performance analysis  
-• Data quality monitoring  
+The prototype includes:
 
-## Dashboard Preview
+- a simulated outreach dataset
+- a data cleaning pipeline
+- an interactive Streamlit dashboard
+- participation and engagement metrics
+- volunteer activity analysis
+- data quality monitoring
 
-### Overview
-![Overview](images/dashboard_overview.png)
+## Dashboard Features
 
-### Program Analytics
-![Programs](images/program_analytics.png)
+- Total events, participants, volunteers, follow-up signups, and engagement metrics
+- Participation by county
+- Participation by program type
+- Monthly outreach trend analysis
+- Average engagement by language
+- Volunteer activity by outreach channel
+- Data quality snapshot
+- Interactive filters for county and program type
 
-### Engagement Insights
-![Engagement](images/engagement_insights.png)
+## Project Structure
 
-### Data Quality
-![Quality](images/data_quality.png)
-
-## Technologies Used
-
-Python  
-Pandas  
-Streamlit  
-Data Cleaning Pipelines  
-Analytics Visualization  
-
-## Project Purpose
-
-This prototype demonstrates how nonprofit organizations could structure outreach data and build dashboards that help teams understand community engagement, outreach effectiveness, and program performance.
-
-Note: The dataset used in this project is simulated to demonstrate the data workflow.ø
-
+```text
+FLIC-outreach-analytics-prototype/
+├── app.py
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── data/
+│   ├── outreach_raw.csv
+│   └── outreach_cleaned.csv
+├── scripts/
+│   ├── create_sample_data.py
+│   └── clean_data.py
+└── images/
+    ├── dashboard_overview.png
+    ├── program_analytics.png
+    ├── engagement_insights.png
+    └── data_quality.png
