@@ -1,0 +1,202 @@
+event_date,county,city,program_type,outreach_channel,language,participants,volunteers,followup_signups,engagement_score,notes
+2025-05-21,Miami-Dade,Miami,Citizenship Workshop,Text Campaign,English,67.0,23,5,3.57,High turnout
+2025-04-22,Miami-Dade,Miami,Citizenship Workshop,Social Media,Haitian Creole,28.0,19,3,4.01,Good multilingual support
+2025-08-18,Orange,Orlando,Voter Outreach,Community Event,English,96.0,24,27,2.69,Needed more volunteers
+2025-02-22,Broward,Hollywood,Know Your Rights,Partner Referral,English,198.0,13,77,2.43,High turnout
+2025-03-05,Orange,Winter Park,Volunteer Training,Phone Bank,Haitian Creole,165.0,22,79,4.6,Strong community response
+2025-12-27,Hillsborough,miami,Know Your Rights,Phone Bank,Haitian Creole,131.0,11,10,4.49,High turnout
+2025-08-21,Orange,Apopka,Community Meeting,Text Campaign,Spanish,196.0,8,85,2.43,High turnout
+2025-03-29,Hillsborough,Plant City,Voter Outreach,Text Campaign,English,251.0,14,34,4.96,Good multilingual support
+2025-06-16,Broward,Pembroke Pines,Know Your Rights,Text Campaign,English,176.0,14,34,1.73,Good multilingual support
+2025-12-02,Palm Beach,West Palm Beach,Volunteer Training,Partner Referral,Haitian Creole,249.0,6,33,1.99,Good multilingual support
+2025-10-27,Hillsborough,Brandon,Volunteer Training,Social Media,Spanish,200.0,9,17,3.28,High turnout
+2025-03-20,Miami-Dade,Miami,Citizenship Workshop,Partner Referral,Haitian Creole,47.0,14,12,3.59,Follow-up requested
+2025-10-11,Hillsborough,Brandon,Know Your Rights,Phone Bank,,289.0,10,87,1.89,Follow-up requested
+2025-01-02,Broward,Hollywood,Community Meeting,Social Media,English,274.0,5,76,4.45,Good multilingual support
+2025-03-20,Hillsborough,Tampa,Community Meeting,Text Campaign,Haitian Creole,286.0,2,82,3.21,High turnout
+2025-05-03,Palm Beach,Boca Raton,Know Your Rights,Text Campaign,Haitian Creole,55.0,4,23,3.2,High turnout
+2025-03-07,Hillsborough,Tampa,Volunteer Training,Social Media,English,150.0,18,54,4.88,Good multilingual support
+2025-06-09,Broward,Pembroke Pines,Volunteer Training,Community Event,Spanish,279.0,16,30,2.37,High turnout
+2025-10-29,Palm Beach,West Palm Beach,Voter Outreach,Text Campaign,Haitian Creole,,2,9,3.98,High turnout
+2025-01-17,Broward,Fort Lauderdale,Community Meeting,Phone Bank,Haitian Creole,136.0,10,62,2.25,Needed more volunteers
+2025-08-31,Hillsborough,Plant City,Citizenship Workshop,Partner Referral,Spanish,112.0,5,6,3.81,Strong community response
+2025-08-28,Orange,Apopka,Know Your Rights,Phone Bank,English,221.0,25,43,4.3,High turnout
+2025-04-08,Broward,Fort Lauderdale,Voter Outreach,Partner Referral,English,231.0,7,35,3.12,High turnout
+2025-02-20,Orange,Winter Park,Know Your Rights,Social Media,English,62.0,9,10,2.92,Follow-up requested
+2025-01-31,Broward,Hollywood,Citizenship Workshop,Partner Referral,English,214.0,10,100,4.25,Strong community response
+2025-10-12,Orange,Winter Park,Volunteer Training,Text Campaign,English,166.0,8,7,3.53,Good multilingual support
+2025-06-10,Miami-Dade,Homestead,Know Your Rights,Phone Bank,Haitian Creole,259.0,18,40,1.7,Good multilingual support
+2025-02-05,Miami-Dade,Miami,Voter Outreach,Phone Bank,Haitian Creole,135.0,14,15,4.8,Good multilingual support
+2025-11-01,Broward,Pembroke Pines,Know Your Rights,Social Media,English,229.0,23,74,3.48,Strong community response
+2025-12-09,Palm Beach,West Palm Beach,Community Meeting,Text Campaign,Spanish,217.0,6,85,3.76,Follow-up requested
+2025-01-05,Palm Beach,West Palm Beach,Volunteer Training,Social Media,Haitian Creole,66.0,4,13,3.27,Needed more volunteers
+2025-05-06,Palm Beach,West Palm Beach,Community Meeting,Community Event,English,239.0,19,90,2.56,Good multilingual support
+2025-10-11,Miami-Dade,Homestead,Community Meeting,Phone Bank,English,150.0,5,13,4.1,Needed more volunteers
+2025-11-06,Palm Beach,Boca Raton,Citizenship Workshop,Community Event,English,150.0,18,62,2.38,High turnout
+2025-08-05,Miami-Dade,Homestead,Community Meeting,Phone Bank,English,185.0,6,81,4.93,Needed more volunteers
+2025-12-28,Orange,Winter Park,Volunteer Training,Social Media,English,72.0,4,9,3.41,Strong community response
+2025-03-17,Hillsborough,Plant City,Volunteer Training,Text Campaign,English,172.0,13,5,4.65,Needed more volunteers
+2025-02-22,Broward,Pembroke Pines,Community Meeting,Social Media,Spanish,94.0,9,10,4.92,Needed more volunteers
+2025-04-02,Orange,Orlando,Community Meeting,Partner Referral,Haitian Creole,142.0,10,20,4.26,High turnout
+2025-08-29,Orange,Orlando,Citizenship Workshop,Text Campaign,Spanish,194.0,11,29,2.28,Needed more volunteers
+2025-05-23,Orange,Apopka,Know Your Rights,Community Event,Spanish,275.0,14,137,2.66,High turnout
+2025-04-02,Miami-Dade,Hialeah,Voter Outreach,Community Event,English,70.0,21,27,2.71,Strong community response
+2025-09-19,Orange,Winter Park,Know Your Rights,Partner Referral,Haitian Creole,112.0,10,2,3.98,High turnout
+2025-12-18,Hillsborough,Plant City,Citizenship Workshop,Community Event,Spanish,50.0,23,10,3.68,High turnout
+2025-06-08,Palm Beach,Delray Beach,Volunteer Training,Community Event,Spanish,166.0,19,16,2.17,Follow-up requested
+2025-10-19,Broward,Pembroke Pines,Community Meeting,Partner Referral,Haitian Creole,15.0,11,4,2.24,Good multilingual support
+2025-06-14,Hillsborough,Plant City,Volunteer Training,Partner Referral,Spanish,124.0,18,30,4.28,Needed more volunteers
+2025-09-21,Miami-Dade,Hialeah,Voter Outreach,Community Event,English,135.0,23,39,2.29,Needed more volunteers
+2025-01-24,Broward,Fort Lauderdale,Citizenship Workshop,Partner Referral,Haitian Creole,52.0,16,13,4.6,Good multilingual support
+2025-12-23,Broward,Pembroke Pines,Volunteer Training,Partner Referral,Spanish,139.0,6,0,4.62,High turnout
+2025-04-01,Orange,Orlando,Voter Outreach,Partner Referral,English,300.0,9,31,3.1,Follow-up requested
+2025-11-01,Hillsborough,Plant City,Community Meeting,Partner Referral,Haitian Creole,273.0,15,114,4.64,Follow-up requested
+2025-05-07,Orange,Apopka,Community Meeting,Social Media,Spanish,137.0,10,56,1.77,Strong community response
+2025-06-21,Broward,Hollywood,Community Meeting,Social Media,English,85.0,6,14,2.84,Needed more volunteers
+2025-08-01,Broward,Fort Lauderdale,Volunteer Training,Community Event,Haitian Creole,253.0,15,7,2.22,Follow-up requested
+2025-12-23,Orange,Winter Park,Know Your Rights,Social Media,Spanish,259.0,2,90,2.55,Follow-up requested
+2025-10-07,Orange,Winter Park,Voter Outreach,Text Campaign,Spanish,127.0,10,55,3.2,Follow-up requested
+2025-12-14,Palm Beach,Delray Beach,Volunteer Training,Text Campaign,Spanish,80.0,21,34,1.59,Follow-up requested
+2025-12-06,Hillsborough,Plant City,Know Your Rights,Phone Bank,Haitian Creole,234.0,6,110,3.12,High turnout
+2025-06-17,Palm Beach,Boca Raton,Citizenship Workshop,Partner Referral,Spanish,187.0,14,35,4.13,Follow-up requested
+2025-08-29,Palm Beach,West Palm Beach,Know Your Rights,Social Media,English,194.0,9,83,1.74,High turnout
+2025-04-13,Miami-Dade,Miami,Know Your Rights,Social Media,English,137.0,6,60,3.84,Good multilingual support
+2025-12-25,Broward,Hollywood,Community Meeting,Community Event,English,73.0,7,19,1.88,High turnout
+2025-12-13,Palm Beach,Delray Beach,Volunteer Training,Partner Referral,Haitian Creole,116.0,4,37,3.92,Needed more volunteers
+2025-06-04,Miami-Dade,Homestead,Voter Outreach,Phone Bank,Haitian Creole,36.0,13,17,3.0,Strong community response
+2025-11-28,Miami-Dade,Homestead,Community Meeting,Phone Bank,Spanish,265.0,5,110,4.86,Follow-up requested
+2025-04-01,Broward,Hollywood,Voter Outreach,Community Event,Haitian Creole,290.0,17,119,3.02,Good multilingual support
+2025-05-06,Palm Beach,Boca Raton,Know Your Rights,Community Event,Spanish,139.0,16,48,2.68,Follow-up requested
+2025-09-07,Palm Beach,West Palm Beach,Citizenship Workshop,Community Event,Spanish,189.0,10,76,3.95,Strong community response
+2025-09-22,Hillsborough,Tampa,Citizenship Workshop,Phone Bank,English,223.0,17,71,4.15,Follow-up requested
+2025-01-09,Orange,Apopka,Know Your Rights,Community Event,English,222.0,24,31,2.57,Good multilingual support
+2025-10-11,Palm Beach,Boca Raton,Voter Outreach,Community Event,Spanish,296.0,12,90,3.96,Strong community response
+2025-04-29,Palm Beach,Boca Raton,Know Your Rights,Text Campaign,Spanish,76.0,25,34,4.83,Needed more volunteers
+2025-09-05,Broward,Fort Lauderdale,Community Meeting,Social Media,Haitian Creole,159.0,5,24,2.54,Strong community response
+2025-01-08,Broward,Hollywood,Voter Outreach,Text Campaign,Spanish,38.0,3,17,2.52,Needed more volunteers
+2025-01-07,Orange,Orlando,Voter Outreach,Community Event,Spanish,260.0,16,87,2.15,High turnout
+2025-02-28,Palm Beach,Boca Raton,Know Your Rights,Partner Referral,Spanish,52.0,20,20,3.9,Needed more volunteers
+2025-06-05,Broward,Pembroke Pines,Know Your Rights,Text Campaign,English,300.0,15,57,4.21,Follow-up requested
+2025-06-02,Orange,Apopka,Voter Outreach,Partner Referral,Spanish,45.0,21,3,4.82,Needed more volunteers
+2025-12-05,Broward,Hollywood,Know Your Rights,Text Campaign,English,103.0,19,4,2.05,Follow-up requested
+2025-11-01,Orange,Winter Park,Volunteer Training,Community Event,English,133.0,11,36,3.96,Follow-up requested
+2025-04-30,Miami-Dade,Homestead,Community Meeting,Social Media,Haitian Creole,116.0,15,7,3.41,Needed more volunteers
+2025-02-06,Palm Beach,West Palm Beach,Know Your Rights,Text Campaign,Spanish,162.0,16,15,3.14,Strong community response
+2025-09-14,Orange,Apopka,Voter Outreach,Partner Referral,Spanish,56.0,21,1,4.61,Strong community response
+2025-01-14,Hillsborough,Brandon,Know Your Rights,Text Campaign,Haitian Creole,25.0,23,4,3.52,Needed more volunteers
+2025-11-30,Orange,Winter Park,Volunteer Training,Community Event,English,238.0,22,104,3.22,High turnout
+2025-07-29,Orange,Apopka,Community Meeting,Community Event,Haitian Creole,68.0,7,21,2.94,Follow-up requested
+2025-07-25,Palm Beach,Delray Beach,Voter Outreach,Phone Bank,Spanish,60.0,12,8,2.63,Follow-up requested
+2025-12-03,Hillsborough,Tampa,Voter Outreach,Partner Referral,Spanish,42.0,8,16,2.77,Follow-up requested
+2025-04-15,Orange,Orlando,Community Meeting,Social Media,English,162.0,16,62,1.92,Good multilingual support
+2025-03-23,Broward,Pembroke Pines,Community Meeting,Social Media,English,297.0,15,23,2.29,High turnout
+2025-11-28,Orange,Orlando,Citizenship Workshop,Partner Referral,Haitian Creole,164.0,18,34,2.95,Follow-up requested
+2025-08-22,Orange,Orlando,Voter Outreach,Text Campaign,Spanish,112.0,21,32,4.11,Needed more volunteers
+2025-08-01,Miami-Dade,Hialeah,Community Meeting,Social Media,Spanish,16.0,11,4,4.43,Good multilingual support
+2025-08-17,Orange,Orlando,Voter Outreach,Partner Referral,Spanish,185.0,19,69,2.82,Strong community response
+2025-05-03,Broward,Pembroke Pines,Voter Outreach,Partner Referral,English,225.0,3,40,4.11,Follow-up requested
+2025-11-30,Orange,Winter Park,Citizenship Workshop,Partner Referral,English,79.0,18,37,2.66,High turnout
+2025-09-27,Orange,Orlando,Volunteer Training,Phone Bank,Haitian Creole,88.0,15,41,4.89,High turnout
+2025-06-23,Orange,Apopka,Voter Outreach,Partner Referral,Haitian Creole,56.0,12,27,3.86,Good multilingual support
+2025-11-17,Orange,Apopka,Volunteer Training,Social Media,English,50.0,9,20,3.9,Strong community response
+2025-02-16,Broward,Pembroke Pines,Volunteer Training,Phone Bank,Haitian Creole,66.0,16,10,3.93,High turnout
+2025-01-29,Miami-Dade,Hialeah,Community Meeting,Community Event,Spanish,235.0,6,31,3.36,Good multilingual support
+2025-03-31,Broward,Fort Lauderdale,Know Your Rights,Social Media,Spanish,138.0,17,18,2.31,Strong community response
+2025-12-08,Orange,Apopka,Know Your Rights,Partner Referral,Spanish,294.0,7,18,3.05,Strong community response
+2025-11-24,Hillsborough,Brandon,Volunteer Training,Community Event,Spanish,169.0,8,49,4.49,High turnout
+2025-10-20,Broward,Hollywood,Community Meeting,Social Media,Spanish,166.0,2,50,2.46,Good multilingual support
+2025-09-12,Miami-Dade,Homestead,Community Meeting,Text Campaign,Haitian Creole,195.0,9,81,2.17,Strong community response
+2025-02-19,Broward,Pembroke Pines,Know Your Rights,Community Event,Spanish,32.0,20,11,4.06,High turnout
+2025-08-01,Palm Beach,Boca Raton,Citizenship Workshop,Text Campaign,English,291.0,13,135,3.26,Strong community response
+2025-09-04,Broward,Hollywood,Community Meeting,Community Event,English,254.0,4,36,4.14,Needed more volunteers
+2025-07-07,Orange,Winter Park,Know Your Rights,Partner Referral,English,150.0,19,15,3.09,Strong community response
+2025-11-23,Hillsborough,Brandon,Community Meeting,Phone Bank,Haitian Creole,134.0,17,3,3.67,Good multilingual support
+2025-04-24,Palm Beach,Delray Beach,Know Your Rights,Partner Referral,Haitian Creole,169.0,22,52,1.91,High turnout
+2025-09-10,Miami-Dade,Hialeah,Know Your Rights,Phone Bank,English,290.0,6,99,3.09,Good multilingual support
+2025-03-21,Orange,Winter Park,Volunteer Training,Phone Bank,Spanish,223.0,10,4,3.92,Needed more volunteers
+2025-05-01,Orange,Apopka,Community Meeting,Phone Bank,Haitian Creole,203.0,19,82,2.76,Follow-up requested
+2025-03-04,Palm Beach,West Palm Beach,Volunteer Training,Phone Bank,Haitian Creole,123.0,22,40,3.59,High turnout
+2025-05-05,Miami-Dade,Hialeah,Citizenship Workshop,Social Media,English,50.0,19,6,3.55,Needed more volunteers
+2025-11-02,Palm Beach,West Palm Beach,Know Your Rights,Community Event,English,81.0,19,16,4.29,High turnout
+2025-01-08,Miami-Dade,Miami,Community Meeting,Text Campaign,Haitian Creole,180.0,2,22,2.43,Needed more volunteers
+2025-02-28,Orange,Winter Park,Know Your Rights,Partner Referral,Spanish,200.0,18,75,1.88,Good multilingual support
+2025-01-23,Broward,Pembroke Pines,Voter Outreach,Community Event,Spanish,30.0,3,15,4.47,Follow-up requested
+2025-12-31,Miami-Dade,Hialeah,Volunteer Training,Phone Bank,English,179.0,21,18,1.73,Strong community response
+2025-10-27,Hillsborough,Plant City,Voter Outreach,Community Event,Spanish,286.0,11,116,3.27,Follow-up requested
+2025-02-28,Miami-Dade,Homestead,Voter Outreach,Text Campaign,Spanish,246.0,9,52,2.69,Follow-up requested
+2025-02-18,Orange,Apopka,Community Meeting,Partner Referral,Spanish,145.0,13,19,3.9,Follow-up requested
+2025-02-13,Miami-Dade,Miami,Know Your Rights,Partner Referral,English,205.0,6,71,1.71,Good multilingual support
+2025-12-10,Hillsborough,Brandon,Know Your Rights,Partner Referral,Spanish,231.0,25,6,4.89,Good multilingual support
+2025-02-23,Palm Beach,Boca Raton,Voter Outreach,Social Media,English,94.0,23,30,2.28,High turnout
+2025-07-08,Palm Beach,Delray Beach,Know Your Rights,Community Event,Haitian Creole,130.0,15,3,3.63,Strong community response
+2025-05-20,Miami-Dade,Miami,Community Meeting,Community Event,Spanish,18.0,7,2,3.48,Follow-up requested
+2025-11-21,Miami-Dade,Miami,Know Your Rights,Phone Bank,Haitian Creole,286.0,8,96,2.97,Strong community response
+2025-06-09,Broward,Hollywood,Community Meeting,Social Media,Haitian Creole,58.0,3,4,2.05,Good multilingual support
+2025-02-11,Miami-Dade,Homestead,Community Meeting,Partner Referral,Haitian Creole,232.0,17,77,3.05,Strong community response
+2025-02-28,Broward,Pembroke Pines,Community Meeting,Partner Referral,English,160.0,23,75,3.2,Strong community response
+2025-07-22,Miami-Dade,Miami,Voter Outreach,Phone Bank,English,119.0,11,13,4.19,Strong community response
+2025-03-03,Palm Beach,Boca Raton,Know Your Rights,Partner Referral,Haitian Creole,235.0,7,16,2.83,Needed more volunteers
+2025-12-09,Hillsborough,Plant City,Community Meeting,Phone Bank,Spanish,36.0,15,0,3.11,High turnout
+2025-08-08,Palm Beach,Delray Beach,Voter Outreach,Partner Referral,Haitian Creole,228.0,11,14,2.92,Strong community response
+2025-08-24,Broward,Pembroke Pines,Community Meeting,Phone Bank,Spanish,69.0,9,27,3.56,Good multilingual support
+2025-06-08,Miami-Dade,Hialeah,Community Meeting,Text Campaign,Spanish,101.0,4,32,3.72,Good multilingual support
+2025-06-28,Hillsborough,Tampa,Community Meeting,Text Campaign,English,67.0,6,16,2.19,Good multilingual support
+2025-02-08,Broward,Pembroke Pines,Citizenship Workshop,Partner Referral,Spanish,244.0,23,118,4.59,Good multilingual support
+2025-06-11,Palm Beach,Delray Beach,Citizenship Workshop,Partner Referral,English,255.0,16,77,4.29,Good multilingual support
+2025-09-17,Miami-Dade,Hialeah,Know Your Rights,Community Event,Spanish,246.0,3,7,2.79,Strong community response
+2025-02-16,Miami-Dade,Homestead,Voter Outreach,Social Media,Haitian Creole,211.0,16,74,3.44,High turnout
+2025-11-30,Orange,Winter Park,Citizenship Workshop,Community Event,Haitian Creole,258.0,18,38,4.85,Follow-up requested
+2026-01-01,Miami-Dade,Hialeah,Know Your Rights,Social Media,Haitian Creole,103.0,3,15,3.98,Follow-up requested
+2025-11-09,Hillsborough,Plant City,Citizenship Workshop,Community Event,Spanish,159.0,14,52,4.21,Good multilingual support
+2025-11-28,Miami-Dade,Homestead,Community Meeting,Phone Bank,Spanish,63.0,19,24,2.49,Good multilingual support
+2025-02-11,Broward,Hollywood,Voter Outreach,Text Campaign,Spanish,173.0,22,84,2.87,Good multilingual support
+2025-10-14,Miami-Dade,Hialeah,Volunteer Training,Community Event,English,284.0,4,108,3.28,High turnout
+2025-04-03,Palm Beach,Boca Raton,Citizenship Workshop,Community Event,Spanish,113.0,9,8,2.04,Strong community response
+2025-10-04,Miami-Dade,Homestead,Voter Outreach,Phone Bank,Haitian Creole,187.0,21,16,3.59,Needed more volunteers
+2025-12-21,Broward,Fort Lauderdale,Voter Outreach,Text Campaign,Haitian Creole,239.0,3,52,2.78,Needed more volunteers
+2025-05-26,Orange,Winter Park,Volunteer Training,Text Campaign,Haitian Creole,137.0,11,60,4.66,Needed more volunteers
+2025-10-20,Palm Beach,Delray Beach,Volunteer Training,Partner Referral,Spanish,210.0,18,67,2.97,Needed more volunteers
+2025-03-12,Broward,Pembroke Pines,Community Meeting,Phone Bank,Haitian Creole,261.0,13,26,3.99,Good multilingual support
+2025-02-12,Miami-Dade,Hialeah,Citizenship Workshop,Community Event,Spanish,277.0,6,111,1.82,Needed more volunteers
+2025-01-14,Orange,Apopka,Volunteer Training,Phone Bank,Spanish,272.0,13,60,2.85,High turnout
+2025-01-15,Palm Beach,West Palm Beach,Community Meeting,Phone Bank,Haitian Creole,186.0,6,17,1.63,Follow-up requested
+2025-08-29,Broward,Pembroke Pines,Volunteer Training,Social Media,English,55.0,2,8,2.25,Needed more volunteers
+2025-11-08,Hillsborough,Plant City,Voter Outreach,Partner Referral,English,162.0,9,38,1.93,Needed more volunteers
+2025-11-15,Orange,Winter Park,Volunteer Training,Phone Bank,English,270.0,21,4,3.71,Good multilingual support
+2025-03-15,Broward,Pembroke Pines,Community Meeting,Partner Referral,English,195.0,9,73,2.96,High turnout
+2025-02-04,Hillsborough,Brandon,Voter Outreach,Social Media,Haitian Creole,274.0,19,5,2.87,Follow-up requested
+2025-07-18,Miami-Dade,Homestead,Community Meeting,Community Event,Haitian Creole,23.0,13,1,2.71,High turnout
+2025-06-20,Hillsborough,Plant City,Citizenship Workshop,Phone Bank,Spanish,294.0,12,44,4.41,Follow-up requested
+2025-04-04,Orange,Winter Park,Citizenship Workshop,Phone Bank,Haitian Creole,249.0,3,37,2.21,Needed more volunteers
+2025-06-08,Miami-Dade,Hialeah,Voter Outreach,Partner Referral,Haitian Creole,257.0,10,9,4.14,Needed more volunteers
+2025-01-25,Palm Beach,Boca Raton,Community Meeting,Community Event,English,203.0,15,51,4.1,Follow-up requested
+2025-09-12,Palm Beach,West Palm Beach,Volunteer Training,Community Event,Haitian Creole,151.0,4,54,1.78,Good multilingual support
+2025-05-31,Broward,Pembroke Pines,Community Meeting,Phone Bank,English,182.0,23,37,2.57,Good multilingual support
+2025-12-20,Orange,Orlando,Volunteer Training,Community Event,Spanish,36.0,25,11,3.65,Follow-up requested
+2025-01-30,Palm Beach,Delray Beach,Know Your Rights,Partner Referral,Spanish,277.0,25,40,4.83,Needed more volunteers
+2025-08-13,Hillsborough,Plant City,Know Your Rights,Text Campaign,English,135.0,22,46,2.77,Good multilingual support
+2025-03-20,Miami-Dade,Homestead,Volunteer Training,Community Event,Spanish,242.0,4,73,1.98,Strong community response
+2025-11-29,Orange,Apopka,Community Meeting,Text Campaign,English,28.0,25,2,3.25,Follow-up requested
+2025-05-15,Hillsborough,Tampa,Community Meeting,Partner Referral,English,161.0,24,62,2.2,Needed more volunteers
+2025-03-30,Miami-Dade,Hialeah,Volunteer Training,Phone Bank,Haitian Creole,178.0,23,44,3.98,Good multilingual support
+2025-06-03,Hillsborough,Brandon,Citizenship Workshop,Text Campaign,Spanish,275.0,9,31,4.95,Needed more volunteers
+2025-01-14,Broward,Hollywood,Community Meeting,Social Media,Haitian Creole,203.0,16,70,1.95,High turnout
+2025-07-23,Miami-Dade,Hialeah,Volunteer Training,Social Media,Spanish,224.0,20,9,1.94,Strong community response
+2025-08-27,Miami-Dade,Hialeah,Voter Outreach,Community Event,English,297.0,22,46,4.19,Needed more volunteers
+2025-01-29,Orange,Winter Park,Know Your Rights,Social Media,English,170.0,7,20,2.63,Needed more volunteers
+2025-05-26,Palm Beach,Delray Beach,Know Your Rights,Community Event,English,297.0,10,32,3.69,Good multilingual support
+2025-09-15,Hillsborough,Tampa,Citizenship Workshop,Social Media,Haitian Creole,93.0,7,42,3.69,Good multilingual support
+2025-01-22,Palm Beach,Delray Beach,Know Your Rights,Phone Bank,English,150.0,22,26,4.18,Follow-up requested
+2025-01-16,Hillsborough,Plant City,Volunteer Training,Social Media,Spanish,169.0,17,31,4.32,Follow-up requested
+2025-02-07,Palm Beach,Boca Raton,Know Your Rights,Text Campaign,Spanish,227.0,17,59,2.21,Good multilingual support
+2025-06-13,Broward,Hollywood,Community Meeting,Partner Referral,English,204.0,18,71,1.87,Needed more volunteers
+2025-05-17,Orange,Orlando,Volunteer Training,Text Campaign,English,64.0,3,18,4.81,Good multilingual support
+2025-03-23,Orange,Orlando,Community Meeting,Social Media,Haitian Creole,175.0,8,20,3.24,Good multilingual support
+2025-06-07,Orange,Apopka,Volunteer Training,Phone Bank,English,216.0,18,58,4.88,Needed more volunteers
+2025-01-25,Hillsborough,Brandon,Know Your Rights,Community Event,Spanish,255.0,11,2,4.47,Follow-up requested
+2025-07-07,Broward,Hollywood,Volunteer Training,Community Event,English,220.0,3,72,3.47,Strong community response
+2025-02-07,Hillsborough,Brandon,Volunteer Training,Social Media,Spanish,296.0,10,30,1.95,High turnout
+2025-06-23,Orange,Apopka,Voter Outreach,Community Event,English,116.0,21,32,2.9,High turnout
+2025-03-12,Miami-Dade,Miami,Community Meeting,Partner Referral,Haitian Creole,248.0,6,77,4.63,Needed more volunteers
+2025-06-13,Palm Beach,Delray Beach,Citizenship Workshop,Partner Referral,Haitian Creole,168.0,20,43,3.28,Good multilingual support
+2025-05-21,Miami-Dade,Miami,Citizenship Workshop,Text Campaign,English,67.0,23,5,3.57,High turnout
